@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm lazuream 👋
 
-<!--
-**lazuream/lazuream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名对 AI、游戏开发和数字图像处理感兴趣的开发者。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 正在开发 Terra Food
+- 🌱 正在学习 Java、Python 和人工智能
+- 🎮 对游戏和网页开发理感兴趣
+- 📫 联系方式：lazuream2004@gmail.com
+
+## 技术栈
+
+Java · Python · C# · C++ · VUE · Git · GitHub
+
+## 代表项目
+
+- [Terra Food](填写项目链接)
